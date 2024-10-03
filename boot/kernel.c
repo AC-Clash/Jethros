@@ -125,8 +125,8 @@ void kernel_main(void)
 	/* Initialize terminal interface */
 	terminal_initialize();
 
-	terminal_writestring("Jethros Copyright (C) 2024 AC Research GP");
-	terminal_writestring("This program is free software; you may redistribute it under the terms of");
-	terminal_writestring("the GNU General Public License version 3 or (at your option) a later version.");
-	terminal_writestring("This program has absolutely no warranty.");
+	terminal_writestring("Jethros Copyright (C) 2024 AC Research GP\n");
+	terminal_writestring("This program is free software; you may redistribute it under the terms of\n");
+	terminal_writestring("the GNU General Public License version 3 or (at your option) a later version.\n");
+	terminal_writestring("This program has absolutely no warranty.\n");
 }
