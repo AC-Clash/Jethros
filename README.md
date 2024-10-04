@@ -23,3 +23,5 @@ Any system with an i686 processor will suffice.
 Compiling from Source
 -----------
 *Availible soon*
+
+Copyright (C) 2024 AC Research GP
